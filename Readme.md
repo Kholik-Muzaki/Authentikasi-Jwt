@@ -1,10 +1,10 @@
 # Laravel React Authentication
 
-mengimplementasikan sistem autentikasi menggunakan Laravel dan React.js. Untuk otentikasi, menggunakan JSON Web Token (JWT) sebagai penyedia API token.
+Mengimplementasikan sistem autentikasi menggunakan Laravel dan React.js. Untuk otentikasi, menggunakan JSON Web Token (JWT) sebagai penyedia API token.
 
 -  Autentikasi pengguna menggunakan JWT.
--  Backend dibangun dengan Laravel.
--  Frontend dibangun dengan React.js.
+-  Implementasi Laravel.
+-  Implementasi React.js.
 
 ### Dependencies (Laravel)
 
